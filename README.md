@@ -71,4 +71,5 @@ The application will download the full video to a temporary file, clip it, save 
 
 ---
 
-*This tool is intended for personal use. Please respect YouTube's Terms of Service and the rights of content creators.* 
+_This tool is intended for personal use. Please respect YouTube's Terms of Service and the rights of content creators._ # yt-clipper
+A desktop application for downloading and clipping YouTube videos with precise start and end times
